@@ -5,4 +5,3 @@
 
 <a href="https://portfolio-2023-flax.vercel.app/">![icon_portfolio](https://user-images.githubusercontent.com/60727090/180818694-65192052-d21d-4bbc-8e31-f720628bc3be.jpeg)
 </a>
-# portfolio_2023
